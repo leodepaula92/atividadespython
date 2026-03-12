@@ -1,0 +1,7 @@
+print ('============= Calcular DElTA  ================')
+print ('Δ = b² – 4ac')
+a = int(input('Digite o Valor de A: '))
+b = int(input('Digite o Valor de B: '))
+c = int(input('Digite o Valor de C: '))
+calculo = (b**2)- (4*a*c)
+print('Valor de Delta é: {}'.format(calculo))

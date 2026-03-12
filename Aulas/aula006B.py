@@ -1,0 +1,3 @@
+#isnumeric, isalpha, isalnum...
+n = input('Digite algo: ')
+print(n.isnumeric())

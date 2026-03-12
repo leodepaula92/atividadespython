@@ -1,0 +1,5 @@
+n1 = input ('Digite Primeiro Valor? ')
+n2 = input ('Digite Segundo Valor? ')
+resultado = int(n1) + int(n2)
+print ('============= DESAFIO 02 ===============')
+print ('A soma de ', n1, ' + ',n2,' é ',resultado)
